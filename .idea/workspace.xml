@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="033c889c-1cd0-4d57-9ac3-5ef302bbafb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/css/wow.css" afterPath="$PROJECT_DIR$/src/assets/css/wow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/scss/wow.scss" afterPath="$PROJECT_DIR$/src/assets/scss/wow.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/slidr.php" afterPath="$PROJECT_DIR$/src/pages/slidr.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,19 +24,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slidr.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="slidr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1869">
-              <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state relative-caret-position="169">
+              <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
               <folding>
-                <element signature="e#919#940#0#PHP" expanded="true" />
-                <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
-                <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
-                <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
-                <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
-                <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
-                <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
+                <element signature="e#8#29#0#PHP" expanded="true" />
+                <marker date="1510162037703" expanded="true" signature="1188:2012" ph="..." />
+                <marker date="1510162037703" expanded="true" signature="1266:1332" ph="{...}" />
+                <marker date="1510162037703" expanded="true" signature="1379:1445" ph="{...}" />
+                <marker date="1510162037703" expanded="true" signature="1487:1553" ph="{...}" />
+                <marker date="1510162037703" expanded="true" signature="1625:1691" ph="{...}" />
+                <marker date="1510162037703" expanded="true" signature="1745:1811" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -56,17 +56,17 @@
         <entry file="file://$PROJECT_DIR$/src/assets/css/wow.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wow.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wow.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/wow.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -93,9 +93,9 @@
         <option value="$PROJECT_DIR$/src/dir/slider.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/classes/slider.php" />
-        <option value="$PROJECT_DIR$/src/pages/slidr.php" />
         <option value="$PROJECT_DIR$/src/assets/css/wow.css" />
         <option value="$PROJECT_DIR$/src/assets/scss/wow.scss" />
+        <option value="$PROJECT_DIR$/src/pages/slidr.php" />
       </list>
     </option>
   </component>
@@ -110,10 +110,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="66" />
+    <option name="width" value="1318" />
+    <option name="height" value="756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +217,7 @@
       <updated>1509627544678</updated>
       <workItem from="1509627551496" duration="6155000" />
       <workItem from="1509809896219" duration="9839000" />
-      <workItem from="1509962654246" duration="3154000" />
+      <workItem from="1509962654246" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary="composer update">
       <created>1509707227431</created>
@@ -231,7 +230,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19148000" />
+    <option name="totallyTimeSpent" value="19530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -308,13 +307,13 @@
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#919#940#0#PHP" expanded="true" />
-            <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
-            <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
+            <element signature="e#8#29#0#PHP" expanded="true" />
+            <marker date="1510162037703" expanded="true" signature="1188:2012" ph="..." />
+            <marker date="1510162037703" expanded="true" signature="1266:1332" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1379:1445" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1487:1553" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1625:1691" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1745:1811" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -374,35 +373,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1869">
-          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-          <folding>
-            <element signature="e#919#940#0#PHP" expanded="true" />
-            <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
-            <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
-            <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/css/wow.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/wow.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+          <folding>
+            <element signature="e#8#29#0#PHP" expanded="true" />
+            <marker date="1510162037703" expanded="true" signature="1188:2012" ph="..." />
+            <marker date="1510162037703" expanded="true" signature="1266:1332" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1379:1445" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1487:1553" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1625:1691" ph="{...}" />
+            <marker date="1510162037703" expanded="true" signature="1745:1811" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
