@@ -1,3 +1,1 @@
-h1{
-    color: red;
-}
+body{background:gold}body h1{color:blue !important}body p{color:red}
