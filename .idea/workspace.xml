@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="033c889c-1cd0-4d57-9ac3-5ef302bbafb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/scss/wow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/slidr.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/css/wow.css" afterPath="$PROJECT_DIR$/src/assets/css/wow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/classes/slider.php" afterPath="$PROJECT_DIR$/src/classes/slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/slidr.php" afterPath="$PROJECT_DIR$/src/pages/slidr.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,20 +16,26 @@
       <file leaf-file-name="slider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/slider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+            <state relative-caret-position="237">
+              <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slidr.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="slidr.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="1869">
+              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding>
-                <element signature="e#7#28#0#PHP" expanded="true" />
+                <element signature="e#919#940#0#PHP" expanded="true" />
+                <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
+                <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
+                <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
+                <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
+                <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
+                <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wow.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wow.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assets/scss/wow.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -105,11 +107,11 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="7" />
-    <option name="width" value="1318" />
-    <option name="height" value="756" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,7 +216,7 @@
       <updated>1509627544678</updated>
       <workItem from="1509627551496" duration="6155000" />
       <workItem from="1509809896219" duration="9839000" />
-      <workItem from="1509962654246" duration="1906000" />
+      <workItem from="1509962654246" duration="2540000" />
     </task>
     <task id="LOCAL-00001" summary="composer update">
       <created>1509707227431</created>
@@ -227,13 +229,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17900000" />
+    <option name="totallyTimeSpent" value="18534000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="7" width="1318" height="756" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25755167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -304,7 +306,13 @@
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#7#28#0#PHP" expanded="true" />
+            <element signature="e#919#940#0#PHP" expanded="true" />
+            <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
+            <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -356,6 +364,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="76" column="27" lean-forward="true" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <element signature="e#919#940#0#PHP" expanded="true" />
+            <marker date="1510160947672" expanded="true" signature="2099:2923" ph="..." />
+            <marker date="1510160947672" expanded="true" signature="2177:2243" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2290:2356" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2398:2464" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2536:2602" ph="{...}" />
+            <marker date="1510160947672" expanded="true" signature="2656:2722" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/css/wow.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -366,27 +398,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/scss/wow.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/slidr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding>
-            <element signature="e#7#28#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
